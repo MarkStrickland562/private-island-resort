@@ -18,8 +18,7 @@ _This is a webpage for a fictitious fantasy island for full stack programmers. W
 1. Through the HTML file:
 * _Open finder and navigate to Desktop/private-island-resort._
 * _Double click on index.html_
-2. Through the URL:
-* _ _
+2. Through the URL: https://Thearyim.github.io/private-island-resort
 
 ## Known Bugs
 
@@ -31,9 +30,7 @@ _Contact Theary Im and Mark Strickland for technical support._
 
 ## Technologies Used
 
-* _Googles._
-* _A link to another webpage._
-* _An image of my cat._
+* _The Googles._
 
 
 
